@@ -6,6 +6,12 @@ GOOGLE_CHROME_BIN = /app/.apt/usr/bin/google-chrome
 
 CHROMEDRIVER_VERSION = 83.0.4103.39
 
+***
+heroku/python
+https://github.com/heroku/heroku-buildpack-google-chrome
+https://github.com/heroku/heroku-buildpack-chromedriver
+***
+
 This buildpack installs
 [`chromedriver`](https://sites.google.com/a/chromium.org/chromedriver/)
  (the Selenium driver for Chrome) in a Heroku slug.
