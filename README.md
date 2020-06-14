@@ -6,6 +6,8 @@ GOOGLE_CHROME_BIN = /app/.apt/usr/bin/google-chrome
 
 CHROMEDRIVER_VERSION = 83.0.4103.39
 
+CHROMEDRIVER_VERSION = 81.0.4044.138
+
 ***
 heroku/python
 
