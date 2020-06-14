@@ -8,7 +8,9 @@ CHROMEDRIVER_VERSION = 83.0.4103.39
 
 ***
 heroku/python
+
 https://github.com/heroku/heroku-buildpack-google-chrome
+
 https://github.com/heroku/heroku-buildpack-chromedriver
 ***
 
